@@ -1,0 +1,26 @@
+{
+  "name": "hellowebpack",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "build": "webpack",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wesias7/hellowebpack.git"
+  },
+  "author": "wesias7",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/wesias7/hellowebpack/issues"
+  },
+  "homepage": "https://github.com/wesias7/hellowebpack#readme",
+  "devDependencies": {
+    "webpack": "^3.10.0"
+  },
+  "dependencies": {
+    "lodash": "^4.17.4"
+  }
+}
